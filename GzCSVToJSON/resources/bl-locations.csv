@@ -1,4 +1,4 @@
-Store ID,Store Name,Address,City,State,Zip,Phone Number,Latitude,Longitude,Type,Facebook Place ID,Location Image/Logo
+StoreID,StoreName,Address,City,State,Zip,PhoneNumber,Latitude,Longitude,Type,FacebookPlaceID,Logo
 762,Anaheim,"321 West Katella Avenue, Suite #212",Anaheim,CA,92802,7144954170,33.803596,-117.911367,Restaurant,240251476016762,
 758,Ann Arbor,401 East Liberty Suite 200,Ann Arbor,MI,48104,7347943000,42.279588,-83.743648,Restaurant,115436561890445,
 782,Arcadia,"400 S. Baldwin Ave, Suite 901L Spc R1",Arcadia,CA,91007,6262411921,34.1328,-118.051577,Restaurant,107185622663370,
