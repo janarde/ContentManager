@@ -1,0 +1,3402 @@
+<list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>762</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Anaheim</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>321 West Katella Avenue, Suite #212</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Anaheim</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>CA</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>92802</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>7144954170</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>33.803596</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-117.911367</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>240251476016762</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>758</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Ann Arbor</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>401 East Liberty Suite 200</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Ann Arbor</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>MI</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>48104</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>7347943000</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>42.279588</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-83.743648</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>115436561890445</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>782</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Arcadia</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>400 S. Baldwin Ave, Suite 901L Spc R1</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Arcadia</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>CA</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>91007</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>6262411921</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>34.1328</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-118.051577</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>107185622663370</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>1107</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Austin</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>123 W 6th Street</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Austin</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>TX</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>78701</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(512) 730 - 3050</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>30.26821</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-97.743431</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>360453987327239</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>754</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Bayshore</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>5750 Bayshore Drive</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Glendale</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>WI</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>53217</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>4148312700</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>43.121608</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-87.913891</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>128695793898034</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>597</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Beavercreek</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>4492 Glengarry Dr</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Beavercreek</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>OH</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>45440</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>9374273900</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>39.693959</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-84.105014</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>365363336857496</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>769</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Bolingbrook</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>619 E Boughton Road #A</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Bolingbrook</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>IL</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>60440</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>6304107100</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>41.719566</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-88.042568</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>104222689684522</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>761</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Boynton Beach</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>1500 Gateway Blvd #100</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Boynton Beach</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>FL</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>33426</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>5618530090</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>26.546543</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-80.088891</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>145947050421</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>755</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Buffalo</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>1 Walden Galleria, Suite P103</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Buffalo</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>NY</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>14225</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>7169893950</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>42.912115</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-78.762848</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>370024196375935</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>780</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Centennial</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>6911 S. Vine Street #700 </string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Centennial </string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>CO</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>80122</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>7202143400</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>39.589777</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-104.963982</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>397630020301425</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>583</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Central West End</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>14 Maryland Plaza</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>St Louis</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>MO</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>63108</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>3146783385</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>38.644618</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-90.262155</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>422598097753754</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>1208</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Clearwater</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>27001 US Highway 19, Suite 1065</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Clearwater</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>FL</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>33761</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(727) 450-1600</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>28.01653934</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-82.7344218</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>419979068045925</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>1101</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Cleveland</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>1352 W. 6th St. , #152</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Cleveland</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>OH</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>44113</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(216) 452-5500</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>41.499396</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-81.698367</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>450352908326923</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>774</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Clinton Township</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>17460 Hall Rd, Suite 152</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Clinton Township</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>MI</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>48038</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>5864643000</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>42.627682</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-82.947379</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>171981530636</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>598</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>DC</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>701 7th Street NW</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Washington</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>DC</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>20001</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>2026382460</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>38.898832</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-77.021767</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>199199466810433</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>407</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Dearborn</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>47 W Polk St</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Chicago</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>IL</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>60605</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>3123470000</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>41.872093</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-87.629463</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>413362775368986</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>750</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Denver</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>8332 Northfield Blvd</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Denver</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>CO</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>80238</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>3034575900</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>39.782537</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-104.892719</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>160864943993950</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>478</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Easton</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>3970 Easton Station</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Columbus</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>OH</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>43219</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>6144754800</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>40.049923</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-82.915788</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>275424055806893</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>436</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Evanston</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>1520 Sherman Ave</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Evanston</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>IL</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>60201</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>8477338300</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>42.045379</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-87.6821</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>213137838741094</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>590</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Flint</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>4360 Miller Rd., Suite E-1</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Flint</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>MI</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>48507</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>8106001500</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>42.978769</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-83.764632</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>104235879680564</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>601</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Foxboro</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>232 Patriot Place </string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Foxborough</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>MA</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>2035</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>5086231195</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>42.087514</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-71.265705</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>277823248969613</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>1108</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Ft. Worth</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>2973 W. 7th St.</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Ft. Worth</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>TX</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>76107</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(817) 566-9933</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>32.75095</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-97.36003</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>285766301500443</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>586</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Grand Rapids</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>3191 28th ST SE</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Grand Rapids</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>MI</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>49512</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>6168859050</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>42.915596</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-85.586669</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>351502028218186</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>767</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Gulf Coast</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>10035 Gulf Center Drive #100</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Fort Myers</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>FL</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>33913</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>2394320389</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>26.489195</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-81.791205</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>131040663590380</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>1206</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Hampton</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>3530 Von Schilling Drive</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Hampton</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>VA</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>23666</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(757) 951-1080</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>37.04339034</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-76.39350038</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>360160957386638</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>466</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Hyde Park</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>5500 S Shore Dr</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Chicago</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>IL</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>60637</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>7733635300</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>41.795197</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-87.580733</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>240621535975525</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>1102</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Kansas City Mo</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>101 E. 14th Street</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Kansas City</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>MO</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>64106</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(816) 841-9100</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>39.097104</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-94.582015</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>142818495803247</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>589</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Kirkwood</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>110 S Kirkwood Rd</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Kirkwood</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>MO</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>63122</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>3142382300</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>38.580341</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-90.405872</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>140264612671648</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>770</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Livonia</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>37716 West Six Mile Road</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Livonia</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>MI</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>48152</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>7347930180</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>42.412269</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-83.416754</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>298900880179925</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>587</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Lyndhurst</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>24337 Cedar Road</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Lyndhurst</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>OH</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>44124</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>2163251120</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>41.503331</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-81.502118</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>129713510394282</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>1301</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Midtown Miami</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>3201 N. Miami Avenue, Suite 106</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Miami</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>FL</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>33127</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string></string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>25.8074639</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-80.19450903</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>205353479596170</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>460</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Naperville</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>22 E Chicago Ave</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Naperville</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>IL</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>60540</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>6309831600</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>41.771162</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-88.147592</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>250551904977238</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>479</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Newport</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>1 Levee Way Suite 3118</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Newport</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>KY</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>41071</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>8592914222</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>39.094932</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-84.495646</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>95683690782</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>753</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Oak Park</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>1122 Lake Street</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Oak Park</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>IL</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>60301</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>7087253300</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>41.888634</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-87.803142</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>227909440654411</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>776</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Orlando</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>7335 West Sand Lake Road, Suite 101</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Orlando</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>FL</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>32819</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>4076085190</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>28.450885</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-81.479968</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>269184006427315</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>588</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Perrysburg</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>4105 Levis Commons Blvd</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Perrysburg</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>OH</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>43551</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>4198749774</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>41.527811</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-83.640713</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>167495119992330</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>602</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Poconos</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>1280 Highway 315, Suite 1801</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Wilkes-Barre</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>PA</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>18702</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>5708248820</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>41.268951</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-75.811475</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>159725877426445</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>1105</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Providence</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>1 Union Station</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Providence</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>RI</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>2903</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>4014270600</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>41.825979</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-71.414308</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>265213140178099</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>592</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Richmond</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>11788 West Broad Street</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Richmond</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>VA</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>23233</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>8044407301</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>41.268952</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-75.811475</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>252804174750481</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>1106</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>River North</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>333-335 N. Dearborn St.</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Chicago</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>IL</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>60654</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(312) 863-2363</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>41.888799</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-87.62953</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>396177010400693</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>1205</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Rockville</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>150 Gibbs Street</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Rockville</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>MD</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>20850</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(240) 238-1080</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>39.08635344</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-77.15209007</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>301162793289571</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>475</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Station Square</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>240 Station Square Dr</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Pittsburgh</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>PA</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>15219</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>4123940500</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>40.433993</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-80.005438</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>260653897292402</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>490</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Tampa</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>2223 N Westshore Blvd  Ste B-202   </string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Tampa</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>FL</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>33607</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>8138741919</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>27.962664</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-82.520483</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>148347635252520</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>1207</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Tempe</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>2000 Rio Salado Parkway Suite 1220</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Tempe</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>AZ</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>85281</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(480) 658-1600</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>33.43419903</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-111.9012666</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>180474935410650</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>593</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Water Street</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>1114 N Water Street</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Milwaukee</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>WI</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>53202</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>4148471492</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>43.045034</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-87.910789</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>109634119256</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>465</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Waterfront</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>244 W Bridge St</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>West Homestead</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>PA</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>15120</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>4124626400</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>40.406766</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-79.916915</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>203740573021050</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>1203</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>West Palm</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>200 Clematis Street</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>West Palm Beach</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>FL</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>33401</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(561) 228-5220</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>26.71313465</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-80.05072271</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>295855880482528</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>1204</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Westlake</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>9 Main Street</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Westlake</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>OH</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>44145</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(440) 788-7540</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>41.459128</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-81.95209</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>324542250927155</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>772</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Westminster</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>10661 Westminster Blvd, Suite 900</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Westminster</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>CO</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>80020</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>7202143300</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>39.890141</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-105.068897</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>225255344193304</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>1201</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Woodlands</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>24 Waterway Avenue</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>The Woodlands</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>TX</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>77380</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(281) 719-1900</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>30.16042601</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-95.45825406</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>206572592785625</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>1202</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Zona Rosa</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>8600 NW Prairie View Road</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Kansas City</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>MO</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>64153</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(816) 326-6810</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>39.248447</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-94.660979</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>196752373769940</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>909</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Auburn Hills</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>4390 Baldwin Road</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Auburn Hills</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>MI</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>48326</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(248) 409-0087</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>42.70230748</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-83.29572201</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>448986275142969</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>919</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Chattanooga</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>2100 Hamilton Place Blvd, STE 238</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Chattanooga</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>TN</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>37421</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(423) 855-4155</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>35.03570759</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-85.15959486</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>539260899422381</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>901</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Columbus</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>504 North Park Street</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Columbus</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>OH</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>43215</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>6142200900</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>39.972515</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-83.004155</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>281949008509088</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>908</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Evansville</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>7700 Eagle Crest Blvd</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Evansville</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>IN</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>47715</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>8124767069</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>37.976028</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-87.458961</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>10152180906105100</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>910</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Little Rock</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>11525 Cantrell Rd.</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Little Rock</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>AR</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>72212</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>5012280444</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>34.793129</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-92.401789</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>130812516934392</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>917</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Matteson</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>500 Holiday Plaza Dr. </string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Matteson</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>IL</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>60443</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(708) 898-0124</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>41.50452577</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-87.73855466</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>461975797180365</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>921</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Merriville</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>8329 Georgia Street</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Merrillville</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>IN</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>46410</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string></string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>41.466871</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-87.326182</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>417392374964640</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>904</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Mishawaka</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>6501 Grape Rd, Suite 1100</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Mishawaka</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>IN</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>46545</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>5742779100</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>41.717502</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-86.187856</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>79132084335</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>912</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Mt. Prospect</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>200 E. Rand Rd.</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Mt. Prospect</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>IL</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>60056</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>8473943456</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>42.08055</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-87.933497</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>502724106422478</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>916</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Murfreesboro</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>2615 Medical Center Parkway, STE 2395</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Murfreesboro</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>TN</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>37129</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(615) 410-4120</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>35.85922</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-86.44462</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>287208154713016</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>918</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Nashville</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>314 11th Avenue South</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Nashville</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>TN</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>37203</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(615) 457-1632</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>36.15302162</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-86.78375374</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>428659600485796</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>905</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Novi</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>44375 12 Mile Rd,Suite G-152 </string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Novi</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>MI</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>48374</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>2486621100</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>42.493552</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-83.540776</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>390242524352889</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>914</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Oakbrook</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>17 W 350 22nd St.</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Oakbrook</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>IL</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>60181</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(630)-478-8040</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>41.846389</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-87.96803</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>452160524827607</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>913</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>O&apos;Hare</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>5615 N. Cumberland Ave</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Chicago</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>IL</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>60631</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>7736935800</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>41.982414</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-87.836433</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>116525878423945</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>915</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Rochester Hills</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>1488 North Rochester Road</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Rochester</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>MI</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>48307</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(248) 218-5114</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>42.692461</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-83.134223</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>461259960574062</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>911</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Skokie</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>5300 Touhy Avenue</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Skokie</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>IL</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>60077</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>8477633056</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>42.011961</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-87.760783</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>114120225285777</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+  <list>
+    <string-array>
+      <string>Store ID</string>
+      <string>920</string>
+    </string-array>
+    <string-array>
+      <string>Store Name</string>
+      <string>Uptown (Minneapolis)</string>
+    </string-array>
+    <string-array>
+      <string>Address</string>
+      <string>1348 Lagoon Street</string>
+    </string-array>
+    <string-array>
+      <string>City</string>
+      <string>Minneapolis</string>
+    </string-array>
+    <string-array>
+      <string>State</string>
+      <string>MN</string>
+    </string-array>
+    <string-array>
+      <string>Zip</string>
+      <string>55408</string>
+    </string-array>
+    <string-array>
+      <string>Phone Number</string>
+      <string>(614) 824-1529</string>
+    </string-array>
+    <string-array>
+      <string>Latitude</string>
+      <string>44.949256</string>
+    </string-array>
+    <string-array>
+      <string>Longitude</string>
+      <string>-93.296955</string>
+    </string-array>
+    <string-array>
+      <string>Type</string>
+      <string>Restaurant</string>
+    </string-array>
+    <string-array>
+      <string>Facebook Place ID</string>
+      <string>348009025275571</string>
+    </string-array>
+    <string-array>
+      <string>Location Image/Logo</string>
+      <string></string>
+    </string-array>
+  </list>
+</list>
