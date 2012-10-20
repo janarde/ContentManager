@@ -27,10 +27,7 @@ public class Converter {
 			String[] line = null;
 			
 			String[] header = reader.readNext();
-			
-			for (String h: header) {
-				System.out.println(h);
-			}
+
 			// make it a list of venues
 			List<Venue> out = new ArrayList<Venue>();
 			
