@@ -9,8 +9,9 @@
 
 	<properties>
 		<opencsv.version>2.0</opencsv.version>
-		<jaxb.version>2.2.7</jaxb.version>
-		<xstream.version>1.4.3</xstream.version>
+		<jaxb.version>2.2.2</jaxb.version>
+		<xstream.version>1.2.2</xstream.version>
+		<jettison.version>1.3.2</jettison.version>
 	</properties>
 
 	<dependencies>
@@ -29,6 +30,12 @@
 			<artifactId>xstream</artifactId>
 			<version>${xstream.version}</version>
 		</dependency>
+		<dependency>
+			<groupId>org.codehaus.jettison</groupId>
+			<artifactId>jettison</artifactId>
+			<version>${jettison.version}</version>
+		</dependency>
+
 
 	</dependencies>
 </project>

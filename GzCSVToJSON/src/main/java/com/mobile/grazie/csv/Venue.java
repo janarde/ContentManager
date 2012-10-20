@@ -40,7 +40,7 @@ public class Venue {
 	private String type;
 	
 	@XmlElement(name="facebook-loc-id")
-	private String fbLocId;
+	private String facebookPlaceID;
 	
 	@XmlElement(name="logo")
 	private String logo;
@@ -126,12 +126,12 @@ public class Venue {
 		this.type = type;
 	}
 
-	public String getFbLocId() {
-		return fbLocId;
+	public String getFacebookPlaceID() {
+		return facebookPlaceID;
 	}
 
-	public void setFbLocId(String fbLocId) {
-		this.fbLocId = fbLocId;
+	public void setFacebookPlaceID(String facebookPlaceID) {
+		this.facebookPlaceID = facebookPlaceID;
 	}
 
 	public String getLogo() {
