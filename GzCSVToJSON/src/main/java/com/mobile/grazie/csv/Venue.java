@@ -1,16 +1,18 @@
 package com.mobile.grazie.csv;
 
+import com.mobile.grazie.csv.Identifiable;
+
+import java.util.List;
+
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlRootElement;
+import javax.xml.bind.annotation.XmlElementWrapper;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlAccessorType;
 
 @XmlRootElement
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Venue {
-	
-	@XmlElement(name="store-id")
-	private String storeID;
 	
 	@XmlElement(name="store-name")
 	private String storeName;
@@ -39,21 +41,13 @@ public class Venue {
 	@XmlElement(name="type")	
 	private String type;
 	
-	@XmlElement(name="facebook-loc-id")
-	private String facebookPlaceID;
+	@XmlElementWrapper(name="external-identifier")
+	@XmlElement(name="externalIdentity")
+	private List<Identifiable> externalIdentifiers;
 	
 	@XmlElement(name="logo")
 	private String logo;
 	
-	
-	public String getStoreID() {
-		return storeID;
-	}
-
-	public void setStoreID(String storeID) {
-		this.storeID = storeID;
-	}
-
 	public String getStoreName() {
 		return storeName;
 	}
@@ -126,12 +120,12 @@ public class Venue {
 		this.type = type;
 	}
 
-	public String getFacebookPlaceID() {
-		return facebookPlaceID;
+	public List<Identifiable> getExternalIdentifiers() {
+		return externalIdentifiers;
 	}
 
-	public void setFacebookPlaceID(String facebookPlaceID) {
-		this.facebookPlaceID = facebookPlaceID;
+	public void setExternalIdentifiers(List<Identifiable> externalIdentifiers) {
+		this.externalIdentifiers = externalIdentifiers;
 	}
 
 	public String getLogo() {

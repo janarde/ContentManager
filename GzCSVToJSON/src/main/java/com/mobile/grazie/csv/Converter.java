@@ -30,21 +30,39 @@ public class Converter {
 
 			// make it a list of venues
 			List<Venue> out = new ArrayList<Venue>();
-			
-			while ((line = reader.readNext()) != null) {
-				Venue v = new Venue();
-				
-				for (int i = 0; i < header.length; i++ ) {
-					// reflection!
-					Venue.class.getMethod("set"+header[i], String.class).invoke(v, line[i]);
-				}
-				out.add(v);
-			}
-			
 			XStream xstream = new XStream(new JettisonMappedXmlDriver());
 			xstream.setMode(XStream.NO_REFERENCES);
 			xstream.alias("Venues", List.class);
 			xstream.alias("venue", Venue.class);
+			xstream.alias("FacebookLocationType", FacebookLocationType.class);
+			xstream.alias("StoreType", StoreType.class);
+			
+			while ((line = reader.readNext()) != null) {
+				Venue v = new Venue();
+				List<Identifiable> identifiers = new ArrayList<Identifiable>();
+				
+				for (int i = 0; i < header.length; i++ ) {
+					// reflection!
+					
+					if (header[i].contentEquals("FacebookPlaceID")) {
+						Identifiable id = new FacebookLocationType();
+						id.setType("FacebookType");
+						id.setExternalId(line[i]);
+						identifiers.add(id);
+					}else if (header[i].contentEquals("StoreID")) {
+						Identifiable id = new StoreType();
+						identifiers.add(id);
+						id.setType("StoreIdType");
+						id.setExternalId(line[i]);
+					} else {
+						Venue.class.getMethod("set"+header[i], String.class).invoke(v, line[i]);
+					}
+					
+				}
+				v.setExternalIdentifiers(identifiers);
+				out.add(v);
+			}
+			
 			xstream.toXML(out, new FileWriter(outFile, false));
 			reader.close();
 		} catch (Exception e) {
