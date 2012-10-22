@@ -19,8 +19,8 @@ public class Converter {
 	
 	
 	public static void main(String[] args) {
-		String startFile = "C:\\Users\\jesse_anarde\\git\\ContentManager\\GzCSVToJSON\\resources\\bl-locations.csv";
-		String outFile = "C:\\Users\\jesse_anarde\\git\\ContentManager\\GzCSVToJSON\\resources\\bl-locations.json";
+		String startFile = Thread.currentThread().getContextClassLoader().getResource("bl-locations.csv").getFile(); 
+		String outFile = "./resources/bl-locations.json";
 		
 		try {
 			CSVReader reader = new CSVReader(new FileReader(startFile));
