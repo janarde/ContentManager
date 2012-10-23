@@ -1,6 +1,6 @@
 package com.mobile.grazie.csv;
 
-
+import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.util.ArrayList;
@@ -16,10 +16,18 @@ import com.thoughtworks.xstream.io.json.JettisonMappedXmlDriver;
 
 public class Converter {
 
+	private String csvFile;
 	
+	public Converter(String csvFile) {
+		this.csvFile = csvFile;
+		
+	}
 	
-	public static void main(String[] args) {
-		String startFile = Thread.currentThread().getContextClassLoader().getResource("bl-locations.csv").getFile(); 
+	public File convert() {
+		String startFile = csvFile;
+		
+		System.out.println(startFile);
+				//Thread.currentThread().getContextClassLoader().getResource("bl-locations.csv").getFile(); 
 		String outFile = "./resources/bl-locations.json";
 		
 		try {
@@ -65,9 +73,14 @@ public class Converter {
 			
 			xstream.toXML(out, new FileWriter(outFile, false));
 			reader.close();
+			
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
+		System.out.println("loading file : " + outFile);
+		return new File(outFile);
+				
+				//Thread.currentThread().getContextClassLoader().getResource("bl-locations.json").getFile());
 	}
 	
 }
