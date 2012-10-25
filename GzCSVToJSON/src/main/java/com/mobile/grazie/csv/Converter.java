@@ -3,8 +3,6 @@ package com.mobile.grazie.csv;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
-import java.util.ArrayList;
-import java.util.List;
 
 import com.mobile.grazie.csv.Venue;
 
@@ -42,35 +40,31 @@ public class Converter {
 			XStream xstream = new XStream(new JettisonMappedXmlDriver());
 			xstream.setMode(XStream.NO_REFERENCES);
 			xstream.alias("venue", Venue.class);
-			xstream.alias("FacebookLocationType", FacebookLocationType.class);
-			xstream.alias("StoreType", StoreType.class);
-			Venue v = new Venue();
+			
 			while ((line = reader.readNext()) != null) {
-				
-				List<Identifiable> identifiers = new ArrayList<Identifiable>();
-				
+				Venue v = new Venue();
 				for (int i = 0; i < header.length; i++ ) {
 					// reflection!
 					
 					if (header[i].contentEquals("FacebookPlaceID")) {
-						Identifiable id = new FacebookLocationType();
-						id.setType("FacebookType");
+						ExternalId id = new ExternalId();
+						id.setType("FACEBOOK_PLACE_ID");
 						id.setExternalId(line[i]);
-						identifiers.add(id);
+						v.setExternalIdentifiers(id);
 					}else if (header[i].contentEquals("StoreID")) {
-						Identifiable id = new StoreType();
-						identifiers.add(id);
-						id.setType("StoreIdType");
+						ExternalId id = new ExternalId();
+						id.setType("STORE_ID");
 						id.setExternalId(line[i]);
+						v.setExternalIdentifiers(id);
 					} else {
 						Venue.class.getMethod("set"+header[i], String.class).invoke(v, line[i]);
 					}
 					
 				}
-				v.setExternalIdentifiers(identifiers);
+				xstream.toXML(v, new FileWriter(outFile, false));
 			}
 			
-			xstream.toXML(v, new FileWriter(outFile, false));
+			
 			reader.close();
 			
 		} catch (Exception e) {

@@ -1,12 +1,12 @@
 package com.mobile.grazie.csv;
 
-import com.mobile.grazie.csv.Identifiable;
+import com.mobile.grazie.csv.ExternalId;
 
 import java.util.List;
+import java.util.ArrayList;
 
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlRootElement;
-import javax.xml.bind.annotation.XmlElementWrapper;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlAccessorType;
 
@@ -23,31 +23,38 @@ public class Venue {
 	@XmlElement(name="city")
 	private String city;
 	
-	@XmlElement(name="state")
-	private String state;
-	
 	@XmlElement(name="zip")	
 	private String zip;
 	
 	@XmlElement(name="phone-number")	
-	private String phoneNumber;
+	private String phoneNum;
 	
-	@XmlElement(name="latitude")	
-	private String latitude;
+	@XmlElement(name="lat")	
+	private String lat;
 	
-	@XmlElement(name="longitude")	
-	private String longitude;
+	@XmlElement(name="lng")	
+	private String lng;
 	
 	@XmlElement(name="type")	
 	private String type;
 	
-	@XmlElementWrapper(name="external-identifier")
-	@XmlElement(name="externalIdentity")
-	private List<Identifiable> externalIdentifiers;
+	@XmlElement(name="externalIds")
+	private List<ExternalId> externalIds = new ArrayList<ExternalId>();
 	
-	@XmlElement(name="logo")
-	private String logo;
+	@XmlElement(name="photo-url")
+	private String photoUrl;
 	
+	@XmlElement(name="menuIds")
+	private String menuIds;
+	
+	public String getMenuIds() {
+		return menuIds;
+	}
+
+	public void setMenuIds(String menuIds) {
+		this.menuIds = menuIds;
+	}
+
 	public String getName() {
 		return name;
 	}
@@ -72,14 +79,6 @@ public class Venue {
 		this.city = city;
 	}
 
-	public String getState() {
-		return state;
-	}
-
-	public void setState(String state) {
-		this.state = state;
-	}
-
 	public String getZip() {
 		return zip;
 	}
@@ -88,28 +87,28 @@ public class Venue {
 		this.zip = zip;
 	}
 
-	public String getPhoneNumber() {
-		return phoneNumber;
+	public String getPhoneNum() {
+		return phoneNum;
 	}
 
-	public void setPhoneNumber(String phoneNumber) {
-		this.phoneNumber = phoneNumber;
+	public void setPhoneNum(String phoneNumber) {
+		this.phoneNum = phoneNumber;
 	}
 
-	public String getLatitude() {
-		return latitude;
+	public String getLat() {
+		return lat;
 	}
 
-	public void setLatitude(String latitude) {
-		this.latitude = latitude;
+	public void setLat(String lat) {
+		this.lat = lat;
 	}
 
-	public String getLongitude() {
-		return longitude;
+	public String getLng() {
+		return lng;
 	}
 
-	public void setLongitude(String longitude) {
-		this.longitude = longitude;
+	public void setLng(String lng) {
+		this.lng = lng;
 	}
 
 	public String getType() {
@@ -120,21 +119,22 @@ public class Venue {
 		this.type = type;
 	}
 
-	public List<Identifiable> getExternalIdentifiers() {
-		return externalIdentifiers;
+	public List<ExternalId> getExternalIdentifiers() {
+		return externalIds;
 	}
 
-	public void setExternalIdentifiers(List<Identifiable> externalIdentifiers) {
-		this.externalIdentifiers = externalIdentifiers;
+	public void setExternalIdentifiers(ExternalId externalIdentifiers) {
+		this.externalIds.add(externalIdentifiers);
 	}
 
-	public String getLogo() {
-		return logo;
+	public String getPhotoUrl() {
+		return photoUrl;
 	}
 
-	public void setLogo(String logo) {
-		this.logo = logo;
+	public void setPhotoUrl(String photoUrl) {
+		this.photoUrl = photoUrl;
 	}
 
+	
 
 }
