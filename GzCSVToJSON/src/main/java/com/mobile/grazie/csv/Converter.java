@@ -23,12 +23,14 @@ public class Converter {
 		
 	}
 	
+	/**
+	 * Converts the csv line into a json file object
+	 * @return File
+	 **/
 	public File convert() {
 		String startFile = csvFile;
 		
-		System.out.println(startFile);
-				//Thread.currentThread().getContextClassLoader().getResource("bl-locations.csv").getFile(); 
-		String outFile = "./resources/bl-locations.json";
+		String outFile = "./resources/temp-bl-locations.json";
 		
 		try {
 			CSVReader reader = new CSVReader(new FileReader(startFile));
@@ -37,16 +39,14 @@ public class Converter {
 			String[] header = reader.readNext();
 
 			// make it a list of venues
-			List<Venue> out = new ArrayList<Venue>();
 			XStream xstream = new XStream(new JettisonMappedXmlDriver());
 			xstream.setMode(XStream.NO_REFERENCES);
-			xstream.alias("Venues", List.class);
 			xstream.alias("venue", Venue.class);
 			xstream.alias("FacebookLocationType", FacebookLocationType.class);
 			xstream.alias("StoreType", StoreType.class);
-			
+			Venue v = new Venue();
 			while ((line = reader.readNext()) != null) {
-				Venue v = new Venue();
+				
 				List<Identifiable> identifiers = new ArrayList<Identifiable>();
 				
 				for (int i = 0; i < header.length; i++ ) {
@@ -68,19 +68,16 @@ public class Converter {
 					
 				}
 				v.setExternalIdentifiers(identifiers);
-				out.add(v);
 			}
 			
-			xstream.toXML(out, new FileWriter(outFile, false));
+			xstream.toXML(v, new FileWriter(outFile, false));
 			reader.close();
 			
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		System.out.println("loading file : " + outFile);
+		
 		return new File(outFile);
-				
-				//Thread.currentThread().getContextClassLoader().getResource("bl-locations.json").getFile());
 	}
 	
 }

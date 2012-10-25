@@ -1,6 +1,5 @@
 package com.mobile.grazie.csv;
 
-import java.io.File;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.io.PrintWriter;
@@ -16,7 +15,6 @@ import org.apache.commons.cli.HelpFormatter;
 import org.apache.commons.cli.Options;
 import org.apache.commons.cli.ParseException;
 
-import com.mobile.grazie.csv.Converter;
 
 public class CommandLineInterface {
 	
@@ -148,7 +146,6 @@ public class CommandLineInterface {
 		String username = null;
 		String password = null;
 		String url = null;
-		File json = null;
 		for (int i=0; i<=(optionMaps.size() - 1); i++) {
 			if (optionMaps.get(i).containsKey("file")) {
 				System.out.println("got here");
@@ -164,14 +161,7 @@ public class CommandLineInterface {
 				url = optionMaps.get(i).get("url");
 			}
 		}
-		System.out.println("calling converter with file " + file);
-		Converter c = new Converter(file);	
-		json = c.convert();
-		System.out.println("calling poster with url " + url);
-		System.out.println("calling poster with json " + json.getAbsolutePath());
-		System.out.println("calling poster with username " + username);
-		System.out.println("calling poster with password " + password);
-		Poster p = new Poster(url, json, username, password);
+		Poster p = new Poster(url, file, username, password);
 		p.doRequest();
 		
 	}

@@ -14,12 +14,12 @@ import org.apache.http.client.methods.HttpPost;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.client.ClientProtocolException;
 import org.apache.http.params.CoreProtocolPNames;
-import org.apache.http.util.EntityUtils;
 
 
 import org.apache.commons.codec.binary.Base64;
 import org.apache.commons.codec.binary.StringUtils;
 
+import com.mobile.grazie.csv.Converter;
 
 
 public class Poster {
@@ -29,7 +29,7 @@ public class Poster {
 	private HttpPost post;
 	
 	
-	public Poster(String url, File file, String username, String password) {
+	public Poster(String url, String json, String username, String password) {
 	
 		String encoding = new String(Base64.encodeBase64(StringUtils.getBytesUtf8(username+":"+password)));
 		httpclient = new DefaultHttpClient();
@@ -37,6 +37,7 @@ public class Poster {
 		post = new HttpPost(url);
 		post.setHeader("Authorization", "Basic " + encoding);
 		
+		File file = new Converter(json).convert(); 
 		reqEntity = new FileEntity(file);
 		reqEntity.setContentType("application/json");
 		post.setEntity(reqEntity);

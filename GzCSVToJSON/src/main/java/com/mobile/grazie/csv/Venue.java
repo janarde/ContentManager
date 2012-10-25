@@ -14,8 +14,8 @@ import javax.xml.bind.annotation.XmlAccessorType;
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Venue {
 	
-	@XmlElement(name="store-name")
-	private String storeName;
+	@XmlElement(name="name")
+	private String name;
 	
 	@XmlElement(name="address")
 	private String address;
@@ -48,12 +48,12 @@ public class Venue {
 	@XmlElement(name="logo")
 	private String logo;
 	
-	public String getStoreName() {
-		return storeName;
+	public String getName() {
+		return name;
 	}
 
-	public void setStoreName(String storeName) {
-		this.storeName = storeName;
+	public void setName(String name) {
+		this.name = name;
 	}
 
 	public String getAddress() {
