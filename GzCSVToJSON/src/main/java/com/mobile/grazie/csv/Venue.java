@@ -5,6 +5,8 @@ import com.mobile.grazie.csv.ExternalId;
 import java.util.List;
 import java.util.ArrayList;
 
+import java.io.Serializable;
+
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlElement;
@@ -12,8 +14,10 @@ import javax.xml.bind.annotation.XmlAccessorType;
 
 @XmlRootElement
 @XmlAccessorType(XmlAccessType.FIELD)
-public class Venue {
-	
+public class Venue implements Serializable {
+
+	private static final long serialVersionUID = -7201086832877111883L;
+
 	@XmlElement(name="name")
 	private String name;
 	
@@ -37,7 +41,7 @@ public class Venue {
 	
 	@XmlElement(name="type")	
 	private String type;
-	
+
 	@XmlElement(name="externalIds")
 	private List<ExternalId> externalIds = new ArrayList<ExternalId>();
 	
