@@ -7,48 +7,28 @@ import java.util.ArrayList;
 
 import java.io.Serializable;
 
-import javax.xml.bind.annotation.XmlAccessType;
-import javax.xml.bind.annotation.XmlRootElement;
-import javax.xml.bind.annotation.XmlElement;
-import javax.xml.bind.annotation.XmlAccessorType;
 
-@XmlRootElement
-@XmlAccessorType(XmlAccessType.FIELD)
+/**
+ * Venue POJO
+ * @author Jesse_Anarde
+ *
+ */
 public class Venue implements Serializable {
 
 	private static final long serialVersionUID = -7201086832877111883L;
 
-	@XmlElement(name="name")
+	public static enum VenueType { RESTAURANT, BAR, NIGHTCLUB, COFFEE }
+	
 	private String name;
-	
-	@XmlElement(name="address")
 	private String address;
-	
-	@XmlElement(name="city")
 	private String city;
-	
-	@XmlElement(name="zip")	
 	private String zip;
-	
-	@XmlElement(name="phone-number")	
 	private String phoneNum;
-	
-	@XmlElement(name="lat")	
 	private String lat;
-	
-	@XmlElement(name="lng")	
 	private String lng;
-	
-	@XmlElement(name="type")	
 	private String type;
-
-	@XmlElement(name="externalIds")
 	private List<ExternalId> externalIds = new ArrayList<ExternalId>();
-	
-	@XmlElement(name="photo-url")
 	private String photoUrl;
-	
-	@XmlElement(name="menuIds")
 	private String menuIds;
 	
 	public String getMenuIds() {

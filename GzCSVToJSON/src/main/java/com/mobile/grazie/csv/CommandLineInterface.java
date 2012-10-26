@@ -15,19 +15,32 @@ import org.apache.commons.cli.HelpFormatter;
 import org.apache.commons.cli.Options;
 import org.apache.commons.cli.ParseException;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
+/**
+ * Command Line Interface implementation
+ * @author Jesse_Anarde
+ *
+ */
 public class CommandLineInterface {
+	
+	final static Logger logger = LoggerFactory.getLogger(CommandLineInterface.class);
 	
 	private static List<HashMap<String, String>> optionMaps = new ArrayList<HashMap<String, String>>();
 	private static HashMap<String, String> optionMap = new HashMap<String, String>();
 	
+	/**
+	 * Command line argument parser. Posix Style arguments should be used.
+	 * @param commandLineArgs
+	 */
 	public static void usePosixParser(final String[] commandLineArgs) {
 		final CommandLineParser cmdLinePosixParser = new PosixParser();
 		final Options posixOptions = constructPosixOptions();
 		CommandLine cmdLine;
 		try {
 			cmdLine = cmdLinePosixParser.parse(posixOptions, commandLineArgs);
-			
+			// these are all required			
 			if (cmdLine.hasOption("u")) {
 				optionMap.put("username", cmdLine.getOptionValue("u"));
 				optionMaps.add(optionMap);
@@ -125,7 +138,6 @@ public class CommandLineInterface {
 		writer.flush();
 	}
 	
-	
 	public static void main(final String[] args) {
 		final String applicationName = "ContentUploader";
 		displayBlankLines(1, System.out);
@@ -148,17 +160,32 @@ public class CommandLineInterface {
 		String url = null;
 		for (int i=0; i<=(optionMaps.size() - 1); i++) {
 			if (optionMaps.get(i).containsKey("file")) {
-				System.out.println("got here");
 				file = optionMaps.get(i).get("file");
+			} else {
+				logger.error("File argument not found. Please provide the full path to the content file.");
+				printHelp(constructPosixOptions(), 80, "HELP", "End of Help", 3, 5, true, System.out);
+				System.exit(-1);
 			}
 			if (optionMaps.get(i).containsKey("username")) {
 				username = optionMaps.get(i).get("username");
+			} else {
+				logger.error("username argument not found. Please provide the username for the admin server.");
+				printHelp(constructPosixOptions(), 80, "HELP", "End of Help", 3, 5, true, System.out);
+				System.exit(-1);
 			}
 			if (optionMaps.get(i).containsKey("password")) {
 				password = optionMaps.get(i).get("password");
+			} else {
+				logger.error("password argument not found. Please provide the password for the username to login to the admin server.");
+				printHelp(constructPosixOptions(), 80, "HELP", "End of Help", 3, 5, true, System.out);
+				System.exit(-1);
 			}
 			if (optionMaps.get(i).containsKey("url")) {
 				url = optionMaps.get(i).get("url");
+			} else {
+				logger.error("url argument not found. Please provide the url to the admin server.");
+				printHelp(constructPosixOptions(), 80, "HELP", "End of Help", 3, 5, true, System.out);
+				System.exit(-1);
 			}
 		}
 		Poster p = new Poster(url, file, username, password);

@@ -1,6 +1,8 @@
 package com.mobile.grazie.csv;
 
+import java.util.List;
 import java.util.ArrayList;
+
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
@@ -12,45 +14,60 @@ import au.com.bytecode.opencsv.CSVReader;
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.io.json.JettisonMappedXmlDriver;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+/**
+ * This worker class converts a csv file into an array for files to be posted.
+ * @author Jesse_Anarde
+ *
+ */
 
 public class JSONWriter {
+	
+	final Logger logger = LoggerFactory.getLogger(JSONWriter.class);
 
 	private String csvFile;
+	private List<File> fileList = new ArrayList<File>();
 	
+	/**
+	 * Constructor for this writer
+	 * @param csvFile
+	 */
 	public JSONWriter(String csvFile) {
 		this.csvFile = csvFile;
-		
+		logger.debug("The csv file being passed to the JSONWriter is " + csvFile);
 	}
 	
 	/**
-	 * Converts the csv line into a json file object
+	 * Converts the csv line into a json file array object
 	 * @return File
 	 **/
-	public File convert() {
-		String startFile = csvFile;
+	public List<File> convert() {
 		
-		//String outFile = "./resources/temp-bl-locations.json";
-		String outFile = "./resources/temp-bl-locations.xml";
+		String startFile = csvFile;
+		String outFile = "./resources/temp-bl-locations.json";
 		
 		try {
 			CSVReader reader = new CSVReader(new FileReader(startFile));
 			String[] line = null;
 			
 			String[] header = reader.readNext();
-
-			// make it a list of venues
-			//XStream xstream = new XStream(new JettisonMappedXmlDriver());
-			XStream xstream = new XStream();
+			
+			// Setting up to object to json mapping stuff
+			XStream xstream = new XStream(new JettisonMappedXmlDriver());
 			xstream.setMode(XStream.NO_REFERENCES);
 			xstream.alias("venue", Venue.class);
-			xstream.alias("externalId", ExternalId.class);
+			xstream.omitField(List.class, "externalIds");
+			xstream.alias("externalIds", ExternalId.class);
+			xstream.addImplicitCollection(Venue.class, "externalIds");
 			
 			
 			while ((line = reader.readNext()) != null) {
 				Venue v = new Venue();
 				for (int i = 0; i < header.length; i++ ) {
-					// reflection!
 					
+					// BEGIN: special logic for the embedded externalId case
 					if (header[i].contentEquals("FacebookPlaceID")) {
 						ExternalId id = new ExternalId();
 						id.setType("FACEBOOK_PLACE_ID");
@@ -61,13 +78,24 @@ public class JSONWriter {
 						id.setType("STORE_ID");
 						id.setExternalId(line[i]);
 						v.setExternalIdentifiers(id);
+					// END: special logic for the embedded externalId case						
 					} else {
+						// using reflection, we call the method that corresponds to the header
 						Venue.class.getMethod("set"+header[i], String.class).invoke(v, line[i]);
 					}
-					
 				}
-				xstream.toXML(v, new FileWriter(outFile, false));
-			}
+				logger.debug("writing out venue " + v.getName());
+				
+				// convert the venue object to a temp json file - this *will* write to disk for a moment
+				xstream.toXML(v, new FileWriter(outFile.concat("." + v.toString()), false));
+				File tempFile = new File(outFile.concat("." + v.toString()));
+				
+				// add the temp file to the array.
+				fileList.add(tempFile);
+				
+				// delete the file. We cleanup everything a bit later, but we can do this now too.
+				tempFile.delete();
+			}			
 			
 			
 			reader.close();
@@ -76,7 +104,7 @@ public class JSONWriter {
 			e.printStackTrace();
 		}
 		
-		return new File(outFile);
+		return fileList;
 	}
 	
 }
