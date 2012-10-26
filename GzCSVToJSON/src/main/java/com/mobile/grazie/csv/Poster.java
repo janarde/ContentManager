@@ -19,7 +19,7 @@ import org.apache.http.params.CoreProtocolPNames;
 import org.apache.commons.codec.binary.Base64;
 import org.apache.commons.codec.binary.StringUtils;
 
-import com.mobile.grazie.csv.Converter;
+import com.mobile.grazie.csv.JSONWriter;
 
 
 public class Poster {
@@ -37,7 +37,7 @@ public class Poster {
 		post = new HttpPost(url);
 		post.setHeader("Authorization", "Basic " + encoding);
 		
-		File file = new Converter(json).convert(); 
+		File file = new JSONWriter(json).convert(); 
 		reqEntity = new FileEntity(file);
 		reqEntity.setContentType("application/json");
 		post.setEntity(reqEntity);
